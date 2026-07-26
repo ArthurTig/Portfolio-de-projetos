@@ -1,0 +1,7 @@
+## Project Overview
+
+This project was developed in collaboration with NIDEC and focuses on predicting inverter temperatures using deep learning models.
+
+The repository includes multiple model implementations developed throughout the project.
+
+> **Note:** The dataset is proprietary and confidential. Therefore, it cannot be publicly shared.
