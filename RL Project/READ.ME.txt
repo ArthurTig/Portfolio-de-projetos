@@ -1,0 +1,7 @@
+## Project Overview
+
+This is the Project I am currently working on, the main ideia is to develop a Reinforcement Learning algorithm capable of managing a Logistics Center.
+
+Along the code, we create the enviroment the agente will be working on, as well as the state and the agente itself.
+
+Afterwards Reinforcement Learnig itself will be added and made some research about it.
